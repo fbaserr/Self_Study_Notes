@@ -1,0 +1,51 @@
+-Agile bir metodoloji olmaktan ziyade bir felsefedir. Bir yaklaþým türüdür.
+-Deðiþime hýzlý cevap verebilen ve iþbirliði odaklý bir takým oyunu yaklaþýmdýr.
+-Timebox yani zaman zaman sýnýrlý rutin aktiviteler(toplantý vs) içerir.
+-Scrum sadýk kurallar bütünü, en popüler agile metodoloji.
+-Geleneksel proje yönetiminde döngü bir kez tekrarlanýrken agileda döngü sürekli tekrarlanýyor.
+-Analiz aþamasý klasik yöntemdeki gibi projenin tamamýna yönelik deðildir çünkü 1 yýl sürecek bir projenin 8. ayýnda müþterinin ihtiyaçlarý ve dolayýsýyla analiz deðiþebilir.
+-Agile deðiþime açýktýr, agile metodoloji ile yazýlým üretilirken müþteriye "Ama 10 ay önce onaylamýþ olduðunuz iþ analizi dokümanýnda X maddesi yoktu" deme lüksü yoktur. Deðiþime hemen odaklanmak ve kýsa periyotlarda sürekli teslimat yapmak esastýr.
+-Sadelik ve ilk ihtiyaca yönelik çalýþmalar yapýlýr.(kullanýcý kayýt ekranýnda yalnýzca kullanýcý bilgilerini alabilmeye odaklanmak sadelik örneðidir. Kullanýcýnýn mailini doðrulamaya çalýþmak vs sonraki meseledir)
+-Þeffaflýk gözlem ve adaptasyon ilkeleri
+-Agile bir metodoloji olmaktan ziyade bir felsefedir. Bir yaklaþým türüdür.
+-Deðiþime hýzlý cevap verebilen ve iþbirliði odaklý bir takým oyunu yaklaþýmdýr.
+-Timebox yani zaman zaman sýnýrlý rutin aktiviteler(toplantý vs) içerir.
+-Scrum sadýk kurallar bütünü, en popüler agile metodoloji.
+-Geleneksel proje yönetiminde döngü bir kez tekrarlanýrken agileda döngü sürekli tekrarlanýyor.
+-Analiz aþamasý klasik yöntemdeki gibi projenin tamamýna yönelik deðildir çünkü 1 yýl sürecek bir projenin 8. ayýnda müþterinin ihtiyaçlarý ve dolayýsýyla analiz deðiþebilir.
+-Agile deðiþime açýktýr, agile metodoloji ile yazýlým üretilirken müþteriye "Ama 10 ay önce onaylamýþ olduðunuz iþ analizi dokümanýnda X maddesi yoktu" deme lüksü yoktur. Deðiþime hemen odaklanmak ve kýsa periyotlarda sürekli teslimat yapmak esastýr.
+-Sadelik ve ilk ihtiyaca yönelik çalýþmalar yapýlýr.(kullanýcý kayýt ekranýnda yalnýzca kullanýcý bilgilerini alabilmeye odaklanmak sadelik örneðidir. Kullanýcýnýn mailini doðrulamaya çalýþmak vs sonraki meseledir)
+-Þeffaflýk gözlem ve adaptasyon ilkeleri
+-Product owner: iþi tarif eder, sorularý yanýtlar, öncelikleri belirler. Product backlogu hazýrlar
+-Scrum master: agile koçu. scrumýn doðru uygulanmasý için ekibi yönlendiren kiþi
+-Testçiler de geliþtirme takýmýnda yer alýr ve takým içerisinde herhangi bir ast üst iliþkisi kurulmaz. herkesin unvaný "geliþtirici"dir.
+-geliþtirici takým büyüklüðü 3 ila 9 kiþi aralýðýnda olmalýdýr(product owner ve scrum master sayýya dahil deðil)
+-Sprint = tekrarlý çalýþma periyodu. Scrumda bir aydan fazla bir haftadan kýsa olamaz. ortaya bir ürün çýkmasý gerekir.
+-Sprint planlama toplantýsýna tüm scrum takýmýnýn katýlmasý gerekir. Ne teslim edilecek, nasýl yapýlacak? Sprint backlog(sprint iþ listesi) oluþturulur. Sprint goal belirlenir. 
+- günlük scrum toplantýsý 15 dk. ayný yerde ayný saatte. dün ne yaptým? bugün ne yapacaðým? önümde engel var mý? gibi sorularýn yanýtý aranýr.
+-sprint toplantýsý 1 aylýk bir sprint için max 4 saattir. sprintte yapýlan iþi ekip ve kilit paydaþlar tartýþýr. 
+-sptint retrospektifi 1 aylýk bir sprint için max 3 saattir. bir sonraki sprinti daha iyi hale getirebilmek için neler yapabiliriz? sorusuna yanýt aranýr.
+-agile scrumda þeffaflýðý saðlamak için en önemli konulardan biri "bitti" tanýmýdýr. sprint sonunda teslim edilecek iþin "bitti" olup olmadýðý konusunda ekipteki herkes ayno görüþe sahip olmalý, 
+"bitti" olan bir ürün parçacýðýnýn nasýl görüneceði hangi fonksiyonlarý gerçekleþtireceði ve neleri yapamayacaðý çok net olmalýdýr.
+- XP metodolojisindeki ekipler scrum ekiplerinden daha kalabalýk olmakta.
+- Lean agile israfýn 7 þeklini(bekleme-üretim fazlasý vs) önlemeye odaklanarak iþ üretmeyi amaçlar.
+- kanban sýradaki iþin iþçiye verilmesini deðil iþ havuzundan iþçinin iþi üzerine almasýyla ilerler. kanban tablosu önemli.
+- agile baþlatma dokümanýnda 5n 1k sorularý sorulmalý ve max 1-2 sayfadan oluþmalý
+- agile metrikler temelde velocity'ye(adam*gün) birimine dayalýdýr. sprintlerde ekibin ne kadar iþ üreteceðini tahmin ederek ve sonuçta ortaya çýkan gerçek iþi tahminle kýyaslayarak ekibin bir sonraki sprintlerde velocity tahmininin daha tutarlý yapmasýný saðlar
+- agile proje yönetiminde iterasyonlarda tamamlanmasý hedeflenen iþleri ve gerçekten tamamlanmýþ olan iþleri grafiklerle takip ederek performans deðerlendirilmesi yapýlýr
+- paydaþ: projeden etkilenen, projeyi etkileyen herkese paydaþ denir. 
+- agile scrum takýmýnda optimal kiþi sayýsý 7+-2 dir.
+- kullanýcý hikayesi spesifik senaryolarýný kullanýcý gözünden anlatýr.
+- agile yaklaþýmda ekipler yalnýzca her bir iterasyonu planlar, geleneksel yaklaþýmdaki gibi projenin tamamýna iliþkin tek bir plan yapýlmaz.
+- - sprint backlog belirleme tahminleme ve gündeme alma sadece geliþtirici ekibin yetkisindedir.
+- miro uygulamasý üzerinde agile tablolarý ve retrospektif toplantýsý gibi etkinlikler için çeþitli görseller-mekanikler kullanýlabiliyor
+- epic: kullanýcý senaryolarýndan bir veya birden çok fonksiyonun modül halinde incelenmesi
+- spike: anahtar kelimesi test. karar anlarýnda deneme yanýlma yoluyla gerçekleþtirilen sprintlerdir. test sürüþü gibi düþünülebilir
+- stratejik hedefler kapsamýnda baþlatýlan programlar bütününe portföy denir.
+- ortak bir fayda uðruna birlikte yürütülen projeler bütününe program denir.
+- niceliksel risk yüzde ve puanlarla deðil doðrudan para, gün vs sayýsýyla verilir.
+- coogle.it : görsel mindmapler
+- planhammer.io : backlog, iþ kýrýlým görseli, agile board, risk giriþi
+- gitmind: mindmap, flowchart, organizasyon þemasý, analiz þemasý vs hazýr templateler mevcut
+- play.planningpoker.com : sprint planlama toplantýsý, user story puanlama
+- pidoco.com: tasarýmý görselleþtirmek
